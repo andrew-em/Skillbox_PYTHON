@@ -1,1 +1,1 @@
-# Skillbox_PYTHON
+Projects in PYTHON module
